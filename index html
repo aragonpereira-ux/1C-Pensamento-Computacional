@@ -17,7 +17,16 @@
    <h1> Lapso temporal do maracujá</h1>
    <p>#planta</p> 
   </div> 
-  <div> 
+   </section>
+     <section class="categoria">
+      <h2>COD 3</h2>
+      <div class="categoria-videos">
+       <a href=link do video">
+        <img src="link da imagem"q>
+         </a>
+          <a href="link da imagem"/>
+           <div>
+            </section>
 [EMBEDED VIDEO]
  </div> 
 </section>
