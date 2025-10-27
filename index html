@@ -3,7 +3,7 @@
 <header>cabeçalho</header>
 <h1>título do conteúdo </h1>
 <p>parágrafo sobre</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i3IsLrPeZG8?si=s0xlOI0w5wl4muUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/ztjfwecrY8E?si=weLikENMeom3Sndh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
 <html lang="pt-BR
 <head>
@@ -22,7 +22,7 @@
       <h2>COD 3</h2>
       <div class="categoria-videos">
        <a href=link do video">
-        <img src="link da imagem"q>
+        <img src=""q>
          </a>
           <a href="link da imagem"/>
            <div>
